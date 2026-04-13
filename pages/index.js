@@ -8,7 +8,7 @@
 *
 *  Name: Saarika Khadka Student ID: 162656235 Date: 2026/04/09
 *
-*  Vercel App (Deployed) Link: ___________________________________________________
+*  Vercel App (Deployed) Link: https://books-app-ecru.vercel.app
 ********************************************************************************/
 
 import useSWR from 'swr';
